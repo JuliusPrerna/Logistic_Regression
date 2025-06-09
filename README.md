@@ -4,7 +4,7 @@ This project implements a logistic regression model using Python and deploys it 
 
 ## 1. Clone the Repository
 
-git clone https://github.com/vikeshkumar8210/Logistic_regression.git
+git clone https://github.com/JuliusPrerna/Logistic_Regression.git
 cd Logistic_regression
 
 ## 2. Install Requirements
